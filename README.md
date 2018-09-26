@@ -39,18 +39,7 @@ Custom Extension script: [LinuxDevtoolsVMSetup.sh](https://raw.githubusercontent
 [![Deploy Linux Devtools VM to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ffxkim%2FMCW-OSS-PaaS-and-DevOps%2Fmaster%2FDevtoolsVMs%2Fazure-deploy.json)
 
 
-### Windows Devtools VM Details
 
-1. Windows Server 2016
-2. Docker Community Edition
-3. Visual Studio Code
-4. Node.js and NPM
-5. Mongo DB Community Edition
-6. Opens port 3389 to allow RDP connections
-
-See the setup script: [WinDevToolsSetup.cmd](https://raw.githubusercontent.com/fxkim/MCW-OSS-PaaS-and-DevOps/master/DevtoolsVMs/WinDevToolsSetup.cmd)
-
-[![Deploy Windows Devtools VM to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ffxkim%2FMCW-OSS-PaaS-and-DevOps%2Fmaster%2FDevtoolsVMs%2Fazure-deploy.json)
 
 Github Repository : https://github.com/ZoinerTejada/mcw-oss-paas-devops
 
