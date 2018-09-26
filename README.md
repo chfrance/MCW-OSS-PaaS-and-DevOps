@@ -7,11 +7,11 @@ This repository contains resources for use with the OSS PaaS and DevOps workshop
 * 09:00 - 09:30   Welcome and Introduction
 * 09:30 - 10:00   Open Source in Microsoft
 * 10:00 - 10:30   Intro to App Modernization
-* 10:30 - 10:45   Coffee BreakHands on component
+* 10:30 - 10:45   Coffee Break
 * 10:45 - 12:00   Containers & DevOps ([Whiteboard Session workshop](https://github.com/fxkim/MCW-OSS-PaaS-and-DevOps/tree/master/Whiteboard%20Design%20Session))
 * 12:00 - 13:00   Lunch break
 * 13:00 - 15:00   Hands-on Labs: [App Modernization](https://github.com/fxkim/MCW-OSS-PaaS-and-DevOps/tree/master/Hands-on%20Lab)
-* 15:00 - 16:00   Hands-on Labs: App Modernization with CI/CD
+* 15:00 - 16:00   Implementing DevOps with CI/CD
 * 16:00 - 16:30   Closing and Q&A
 
 ## Setup of Azure Subscription
@@ -264,16 +264,7 @@ Custom Extension script: [LinuxDevtoolsVMSetup.sh](https://raw.githubusercontent
 [![Deploy Linux Devtools VM to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ffxkim%2FMCW-OSS-PaaS-and-DevOps%2Fmaster%2FDevtoolsVMs%2Fazure-deploy.json)
 
 
-### Windows Devtools VM Details
 
-1. Windows Server 2016
-2. Docker Community Edition
-3. Visual Studio Code
-4. Node.js and NPM
-5. Mongo DB Community Edition
-6. Opens port 3389 to allow RDP connections
 
-See the setup script: [WinDevToolsSetup.cmd](https://raw.githubusercontent.com/fxkim/MCW-OSS-PaaS-and-DevOps/master/DevtoolsVMs/WinDevToolsSetup.cmd)
-
-[![Deploy Windows Devtools VM to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ffxkim%2FMCW-OSS-PaaS-and-DevOps%2Fmaster%2FDevtoolsVMs%2Fazure-deploy.json)
+Github Repository : https://github.com/ZoinerTejada/mcw-oss-paas-devops
 
