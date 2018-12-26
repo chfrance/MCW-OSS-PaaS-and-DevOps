@@ -13,7 +13,9 @@ var userSession = require('./routes/session');
 
 var app = express();
 
-var databaseUrl = 'mongodb://localhost:27017/best-for-you-organics';
+/* Updates for MTC Netseenergy 
+var databaseUrl = 'mongodb://localhost:27017/best-for-you-organics'; */
+var databaseUrl = 'mongodb://best-for-you-db-netseenergy:3cyVlNyqmxOKsambDJligDxUba462tun4KZ0RT68iph1A6uDHBTpw8xHNOOFru8spmWySPXlZWoUhkLqWWBpNQ==@best-for-you-db-netseenergy.documents.azure.com:10255/best-for-you-organics?ssl=true&replicaSet=globaldb'
 
 var mongoose = require('mongoose');
 mongoose.Promise = require('bluebird');
